@@ -5,6 +5,7 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/saklincodes/HappyBirthday?style=for-the-badge&color=ffd700&logo=star&logoColor=white)](https://github.com/saklincodes/HappyBirthday/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/saklincodes/HappyBirthday?style=for-the-badge&color=ff69b4&logo=git&logoColor=white)](https://github.com/saklincodes/HappyBirthday/network/members)
+[![Vercel Deployment](https://img.shields.io/badge/Deployed%20with-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://happybirthday-liart-chi.vercel.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-00c853.svg?style=for-the-badge&logo=open-source-initiative&logoColor=white)](LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge)](https://github.com/saklincodes/HappyBirthday)
 
@@ -14,7 +15,7 @@
 [![Canvas Confetti](https://img.shields.io/badge/Confetti.js-FF4081?style=flat-square&logo=sparkles&logoColor=white)](https://www.npmjs.com/package/canvas-confetti)
 [![Anime.js](https://img.shields.io/badge/Anime.js-FF4E83?style=flat-square&logo=javascript&logoColor=white)](https://animejs.com/)
 
-[**Live Demo**](https://saklincodes.github.io/HappyBirthday/) • [**Report Bug**](https://github.com/saklincodes/HappyBirthday/issues) • [**Request Feature**](https://github.com/saklincodes/HappyBirthday/issues)
+[**🚀 Live Vercel Demo**](https://happybirthday-liart-chi.vercel.app) • [**GitHub Pages**](https://saklincodes.github.io/HappyBirthday/) • [**Report Bug**](https://github.com/saklincodes/HappyBirthday/issues)
 
 ---
 
